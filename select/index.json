@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Think U Know",
+  "base_artist": "TELL YOUR STORY music by Ikson™",
+  "createdAt": "2026-03-26T05:34:34.040412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If U Think U Know Me",
+      "artist": "Orianthi",
+      "has_synced": true,
+      "path": "select/01_If_U_Think_U_Know_Me_Orianthi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Think U Know",
+      "artist": "TVXQ",
+      "has_synced": false,
+      "path": "select/02_I_Think_U_Know_TVXQ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Think U Know",
+      "artist": "Tohoshinki",
+      "has_synced": false,
+      "path": "select/03_I_Think_U_Know_Tohoshinki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Think U Know",
+      "artist": "동방신기 (TVXQ!)",
+      "has_synced": true,
+      "path": "select/04_I_Think_U_Know_동방신기_(TVXQ!).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Think U Know",
+      "artist": "東方神起",
+      "has_synced": true,
+      "path": "select/05_I_Think_U_Know_東方神起.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You Think Know How to Love Me",
+      "artist": "Smokie",
+      "has_synced": true,
+      "path": "select/06_If_You_Think_Know_How_to_Love_Me_Smokie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If You Think Know How To Love Me",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/07_If_You_Think_Know_How_To_Love_Me_Pat_Benatar.lrc"
+    }
+  ]
+}
